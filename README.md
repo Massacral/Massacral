@@ -6,6 +6,7 @@ Estou cursando **Técnico em Desenvolvimento de Sistemas** e buscando minha prim
 - 🎓 **Estudando:** Desenvolvimento de Sistemas (Foco em Backend/Frontend)
 - 🔭 **Atualmente trabalhando em:** [Koenma Sushi](https://github.com/Massacre/koenma_sushi) e [Cresci e Perdi](https://github.com/Massacre/cresci_e_perdi)
 - 🎯 **Objetivo:** Me especializar em desenvolvimento Web e Engenharia de Software.
+- https://portfolio-tiago-cuxy.onrender.com/#
 
 ---
 
